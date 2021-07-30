@@ -1,0 +1,3 @@
+# Lista de Tarefas com JavaScript
+
+### Exercício proposto pelo curso de Java Script e TypeScript da Udemy, com o professor Luiz Otávio Miranda.
